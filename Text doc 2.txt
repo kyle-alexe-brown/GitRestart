@@ -1,1 +1,2 @@
 document 2 test
+Document 2 successfully commited
